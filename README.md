@@ -18,7 +18,7 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using Git:
 ```shell
-git clone <repository_url>
+git clone https://github.com/abhishekiiitbh2903/Full_Stack_Development.git
 ```
 
 2. Install the required dependencies for the client and server applications. Navigate to the `/client` and `/server` directories and execute the following command in each:
