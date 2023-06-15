@@ -1,25 +1,24 @@
 const videos = [{
     id:1,
-    title: 'React JS tutorial',
+    title: 'React JS Tutorial',
     views: '999K',
     time: '1 year ago',
     channel: 'Coder Dost',
-    verified: true
+    verified: false
   },{
     id:2,  
-    title: 'Node JS tutorial',
+    title: 'Node JS Tutorial',
     views: '100K',
     time: '1 year ago',
     channel: 'Coder Dost',
-    verified: false
+    verified: true
   },
-  { 
-    id:3,
-    title: 'React JS tutorial',
+  { id:3,
+    title: 'MongoDB Tutorial',
     views: '1M',
     time: '1 month ago',
     channel: 'Coder Dost',
-    verified: true
+    verified: false
   }];
 
 export default videos;
